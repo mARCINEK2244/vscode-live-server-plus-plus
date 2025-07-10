@@ -20,11 +20,3 @@ schedule==1.2.0
 watchdog==3.0.0
 pytz==2023.3
 python-dateutil==2.8.2
-rich
-click
-python-dotenv
-pydantic
-requests
-beautifulsoup4
-pytz
-python-dateutil
